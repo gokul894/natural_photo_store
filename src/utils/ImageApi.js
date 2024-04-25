@@ -1,0 +1,35 @@
+
+const NaturePhoto = [
+    {
+        name:"image1",
+        img:""
+    },
+    {
+        name:"image2",
+        img:""
+    },
+    {
+        name:"image3",
+        img:""
+    },
+    {
+        name:"image4",
+        img:""
+    },
+    {
+        name:"image5",
+        img:""
+    },
+    {
+        name:"image6",
+        img:""
+    },
+    {
+        name:"image7",
+        img:""
+    },
+    {
+        name:"image8",
+        img:""
+    },
+]
