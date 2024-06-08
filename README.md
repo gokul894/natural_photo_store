@@ -1,6 +1,6 @@
 # this is natual photo store portfolio website
-## --> it's not too much dynamic
-## --> we are focus on some simple routing 
-## --> and some frontend UI design
+## 1. it's not too much dynamic
+## 2. we are focus on some simple routing 
+## 3. and some frontend UI design
 
 
